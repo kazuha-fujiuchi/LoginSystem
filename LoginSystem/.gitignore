@@ -32,7 +32,7 @@
 /.apt_generated/
 /.classpath
 /.factorypath
-/.project
+#/.project
 /.settings/
 /target/
 /tmp/

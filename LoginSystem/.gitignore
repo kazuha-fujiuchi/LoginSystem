@@ -10,7 +10,7 @@
 /lib/
 # 特定のIDEディレクトリ
 /.settings/
-/project/
+#/project/
 /.classpath
 /.idea/
 *.iml
